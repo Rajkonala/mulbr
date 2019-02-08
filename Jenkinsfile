@@ -1,7 +1,7 @@
 node()[D''[Dmaster')
 {
-stage()[D''[Dtest')
+stage()[D''[Dtest on sb')
 {
-echo ''[Dhello branch1'
+echo ''[Dhello br2'
 }
 }
